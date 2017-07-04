@@ -1,0 +1,52 @@
+group 'com.ceaser'
+version '1.0'
+
+apply plugin: 'java'
+apply plugin: 'com.google.protobuf'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile (
+            'io.netty:netty-all:4.1.10.Final',
+            'com.google.protobuf:protobuf-java:3.3.1',
+            'com.google.protobuf:protobuf-java-util:3.3.1',
+            'junit:junit:4.11',
+            'org.apache.thrift:libthrift:0.10.0',
+            'io.grpc:grpc-netty:1.4.0',
+             'io.grpc:grpc-protobuf:1.4.0',
+             'io.grpc:grpc-stub:1.4.0'
+    )
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        // ASSUMES GRADLE 2.12 OR HIGHER. Use plugin version 0.7.5 with earlier
+        // gradle versions
+        classpath 'com.google.protobuf:protobuf-gradle-plugin:0.8.0'
+    }
+}
+
+protobuf {
+    protoc {
+        artifact = "com.google.protobuf:protoc:3.2.0"
+    }
+    plugins {
+        grpc {
+            artifact = 'io.grpc:protoc-gen-grpc-java:1.4.0'
+        }
+    }
+    generateProtoTasks {
+        all()*.plugins {
+            grpc {}
+        }
+    }
+}

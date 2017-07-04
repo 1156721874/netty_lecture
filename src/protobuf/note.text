@@ -1,0 +1,20 @@
+protoc --java_out=src/main/java src/protobuf/Student.proto
+protoc --java_out=src/main/java src/protobuf/Person.proto
+
+问题：
+我们在实际生产中往往服务端和客户端都要使用protobuf生成的Java文件，MAME文件的共享就是一个问题，总不能使用QQ传文件的方式给开发者，
+为此我们使用git的一个特性解决此问题。
+git subtree
+
+ServiceProject  服务端项目
+
+protobuf-java   protobuf生成的Java文件项目
+
+data.proto      protobuf源文件项目
+
+ClientProject   客户端项目
+
+subtree的使用介绍：
+将protobuf-java工程subtree到ServiceProject和ClientProject中，等于merge进去，然后protobuf-java将作为独立的工程存在
+ServiceProject和ClientProject中。
+

@@ -1,0 +1,8 @@
+https://github.com/grpc/grpc-java
+编写Student.proto文件，使用gradle generateProto命令生成Java文件在：
+build/generated//source/proto/main下边，
+将其下文件拷贝到src/main/java/com/ceaser/proto下边
+注意：Student.proto文件必须放在src/main/proto 或者 src/test/proto（测试用）才能用gradle插件编译成功。
+
+官方demo
+E:\Study\gitstorage\grpc-java

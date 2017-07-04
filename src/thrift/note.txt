@@ -1,0 +1,5 @@
+thrift --gen java src/thrift/data.thrift
+
+python库安装：
+cd D:\Source Program\thrift-0.10.0\thrift-0.10.0\lib\py
+python setup.py install
