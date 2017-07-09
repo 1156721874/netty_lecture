@@ -10,7 +10,7 @@ public interface StudentResponseOrBuilder extends
   /**
    * <code>string name = 1;</code>
    */
-  String getName();
+  java.lang.String getName();
   /**
    * <code>string name = 1;</code>
    */
@@ -25,7 +25,7 @@ public interface StudentResponseOrBuilder extends
   /**
    * <code>string city = 3;</code>
    */
-  String getCity();
+  java.lang.String getCity();
   /**
    * <code>string city = 3;</code>
    */
