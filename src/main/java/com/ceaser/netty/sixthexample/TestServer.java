@@ -11,6 +11,9 @@ import io.netty.handler.logging.LoggingHandler;
 
 /**
  * Created by Administrator on 2017/6/6.
+ *
+ * netty对protobuf的支持
+ *
  */
 public class TestServer {
 

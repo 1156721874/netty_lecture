@@ -25,6 +25,8 @@ public class MyServerInitializer extends ChannelInitializer<SocketChannel> {
     }
 }
 /**
+ * 粘包
+ *
  * 一次write对应多次read，为了解决这个问题netty提供了两个重要的handler:LengthFieldPrepender和LengthFieldBasedFrameDecoder
  *
  LengthFieldBasedFrameDecoder

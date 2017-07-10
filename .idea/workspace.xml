@@ -2,110 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cfa816f-74a8-48ca-9bd1-84fb2781791e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/secondexample/MyServerInitializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/any.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/api.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/compiler/plugin.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/descriptor.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/duration.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/empty.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/field_mask.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/source_context.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/struct.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/timestamp.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/type.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/extracted-include-protos/test/google/protobuf/wrappers.proto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/ceaser/proto/StudentServiceGrpc.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/MyRequest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/MyRequestOrBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/MyResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/MyResponseOrBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/StudentProto.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/StudentRequest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/StudentRequestOrBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/StudentResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/StudentResponseList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/StudentResponseListOrBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/StudentResponseOrBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/libs/netty_lecture-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/grpc/GrpcClient.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/grpc/GrpcClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/grpc/StudentServerImpl.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/grpc/StudentServerImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentProto$1.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentProto$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentProto.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentProto.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$MethodHandlers.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$MethodHandlers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceBlockingStub.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceBlockingStub.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceDescriptorSupplier.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceDescriptorSupplier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceFutureStub.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceFutureStub.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceImplBase.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceImplBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceStub.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc$StudentServiceStub.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/proto/StudentServiceGrpc.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_grpc_proto_google_common_protos_0_1_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_grpc_proto_google_common_protos_0_1_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_19.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_19.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_19_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_instrumentation_instrumentation_api_0_4_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_instrumentation_instrumentation_api_0_4_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_util_3_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_util_3_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_context_1_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_context_1_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_core_1_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_core_1_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_netty_1_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_netty_1_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_protobuf_1_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_protobuf_1_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_protobuf_lite_1_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_protobuf_lite_1_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_stub_1_4_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_grpc_grpc_stub_1_4_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_all_4_1_10_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_all_4_1_10_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_http2_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_http2_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_http_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_http_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_socks_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_socks_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_common_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_common_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_handler_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_handler_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_handler_proxy_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_handler_proxy_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_transport_4_1_11_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_transport_4_1_11_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_4_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_thrift_libthrift_0_10_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_thrift_libthrift_0_10_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/fifthexample/MyServer.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/fifthexample/MyServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/sevenexample/TestServer.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/sevenexample/TestServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/sevenexample/TestServerInitializer.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/sevenexample/TestServerInitializer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/sixthexample/TestServer.class" afterPath="$PROJECT_DIR$/build/classes/main/com/ceaser/netty/sixthexample/TestServer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/any.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/any.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/api.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/api.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/compiler/plugin.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/compiler/plugin.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/descriptor.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/descriptor.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/duration.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/duration.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/empty.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/empty.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/field_mask.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/field_mask.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/source_context.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/source_context.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/struct.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/struct.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/timestamp.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/timestamp.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/type.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/type.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/wrappers.proto" afterPath="$PROJECT_DIR$/build/extracted-include-protos/main/google/protobuf/wrappers.proto" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyClientIniatializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyClientIniatializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/MyServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/MyServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientInitializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyClient.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyDecoder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyDecoder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyEncoder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyEncoder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyHeader.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyHeader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyMessage.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyMessage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerInitializer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerInitializer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyRequestOrBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyRequestOrBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyResponse.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyResponseOrBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyResponseOrBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamRequestOrBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamRequestOrBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamResponse.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamResponseOrBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StreamResponseOrBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentProto.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentProto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentRequest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentRequestOrBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentRequestOrBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponse.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponse.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponseList.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponseList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponseListOrBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponseListOrBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponseOrBuilder.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentResponseOrBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentServiceGrpc.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentServiceGrpc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerInitializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServer.java" afterPath="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -177,62 +93,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MyChatServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatServer.java">
+      <file leaf-file-name="ServerInitializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="20" column="122" lean-forward="false" selection-start-line="20" selection-start-column="122" selection-end-line="20" selection-end-column="122" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyChatServerInitializer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatServerInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestServerInitializer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/firstexample/TestServerInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyServerInitializer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerInitializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyClientIniatializer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyClientIniatializer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-              <folding />
+              <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MyServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientInitializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="19" column="122" lean-forward="true" selection-start-line="19" selection-start-column="122" selection-end-line="19" selection-end-column="122" />
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyHeader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyHeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelHandlerContext.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.10.Final/e333a6a1f91bf99bc96e48f807335e735e53031c/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelHandlerContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/firstexample/TestServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="37" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDecoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -640,27 +610,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyClientHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/Myclient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatClientHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatClientInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatClient.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatServerInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServerHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServerInitializer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/thirdexample/MyChatServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/firstexample/TestServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/WebsocketChannelInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/WebSocketChannelHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/MyServer.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/text.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/TextWebSocketChannelHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/protobuf/ProtobufTest.java" />
         <option value="$PROJECT_DIR$/src/protobuf/Student.proto" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/MyClientInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/MyClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestMyClient.java" />
@@ -677,8 +635,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/thrift/ThriftClient.java" />
         <option value="$PROJECT_DIR$/src/proto/Student.proto" />
         <option value="$PROJECT_DIR$/src/proto/notes.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerHandler.java" />
         <option value="$PROJECT_DIR$/src/protobuf/note.text" />
         <option value="$PROJECT_DIR$/src/main/proto/notes.txt" />
@@ -689,8 +645,22 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentServiceGrpc.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/grpc/GrpcClient.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyClientIniatializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyHeader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyClient.java" />
       </list>
     </option>
   </component>
@@ -714,6 +684,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -773,8 +746,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="protobuf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty_lecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty_lecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -816,6 +811,24 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty_lecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty_lecture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -844,40 +857,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ceaser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty_lecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty_lecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ceaser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thirdexample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -941,41 +920,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="secondexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty_lecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty_lecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ceaser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="forthexample" />
+              <option name="myItemId" value="myprotocalexample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1013,40 +958,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty_lecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty_lecture" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ceaser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fifthexample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -1071,85 +982,7 @@
       <recent name="E:\Study\intelIde\netty_lecture\src\main\proto" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestServer">
-    <configuration default="false" name="ThriftClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ceaser.thrift.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ceaser.thrift.ThriftClient" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="netty_lecture_main" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="netty_lecture [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="false" name="GrpcServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ceaser.netty.grpc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ceaser.netty.grpc.GrpcServer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="netty_lecture_main" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GrpcClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ceaser.netty.grpc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ceaser.netty.grpc.GrpcClient" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="netty_lecture_main" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MyClient">
     <configuration default="false" name="TestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1158,6 +991,69 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.ceaser.netty.firstexample.TestServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty_lecture_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ceaser.netty.fifthexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ceaser.netty.fifthexample.MyServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty_lecture_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="text.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/netty_lecture/netty_lecture_main/webapp/text.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="MyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ceaser.netty.myprotocalexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ceaser.netty.myprotocalexample.MyServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty_lecture_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ceaser.netty.myprotocalexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ceaser.netty.myprotocalexample.MyClient" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1551,19 +1447,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ThriftClient" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.netty_lecture [build]" />
-      <item index="2" class="java.lang.String" itemvalue="Application.GrpcServer" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GrpcClient" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestServer" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestServer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyServer" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.text.html" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyServer (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MyClient" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestServer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GrpcServer" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GrpcClient" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.netty_lecture [build]" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ThriftClient" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MyClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyServer (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.text.html" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MyServer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestServer" />
       </list>
     </recent_temporary>
   </component>
@@ -1600,12 +1496,12 @@
       <workItem from="1498989677416" duration="956000" />
       <workItem from="1499084994019" duration="5175000" />
       <workItem from="1499170811687" duration="3467000" />
-      <workItem from="1499647270957" duration="6981000" />
+      <workItem from="1499647270957" duration="18834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98347000" />
+    <option name="totallyTimeSpent" value="110200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -1661,199 +1557,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/MyRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/generated/source/proto/main/java/com/ceaser/proto/MyResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/generated/source/proto/main/grpc/com/ceaser/proto/StudentServiceGrpc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestMyClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="20" column="78" lean-forward="false" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/MyDataInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1125">
-          <caret line="14" column="59" lean-forward="false" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/protobuf/ProtobufTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thrift/thrift_client_server_moden.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thrift/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/protobuf/DataInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/protobuf/Person.proto">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/protobuf/note.text">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/proto/StudentServiceGrpc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="168" column="7" lean-forward="true" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/proto/MyRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/grpc/GrpcClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/grpc/GrpcServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/grpc/StudentServerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/proto/Student.proto">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/proto/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.10.Final/e333a6a1f91bf99bc96e48f807335e735e53031c/netty-all-4.1.10.Final.jar!/io/netty/handler/codec/string/StringEncoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.10.Final/e333a6a1f91bf99bc96e48f807335e735e53031c/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelDuplexHandler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1913,22 +1616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.10.Final/e333a6a1f91bf99bc96e48f807335e735e53031c/netty-all-4.1.10.Final.jar!/io/netty/channel/SimpleChannelInboundHandler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15">
@@ -1945,30 +1632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/MyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/TextWebSocketChannelHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="76" lean-forward="false" selection-start-line="24" selection-start-column="76" selection-end-line="24" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/WebsocketChannelInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/firstexample/TestHttpServerHandle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-360">
@@ -1977,26 +1640,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/firstexample/TestServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/Myclient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -2041,19 +1688,311 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerInitializer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.10.Final/e333a6a1f91bf99bc96e48f807335e735e53031c/netty-all-4.1.10.Final.jar!/io/netty/handler/timeout/IdleStateEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/proto/Student.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protobuf/Person.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestMyClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="4" />
+          <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestMyClientInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="69" lean-forward="true" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sixthexample/TestServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/forthexample/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/TextWebSocketChannelHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/fifthexample/WebsocketChannelInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="66" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyClientIniatializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="120">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/secondexample/MyServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/grpc/GrpcClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/sevenexample/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.10.Final/e333a6a1f91bf99bc96e48f807335e735e53031c/netty-all-4.1.10.Final.jar!/io/netty/handler/codec/ByteToMessageDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="20" column="72" lean-forward="true" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/firstexample/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="37" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.10.Final/e333a6a1f91bf99bc96e48f807335e735e53031c/netty-all-4.1.10.Final.jar!/io/netty/channel/ChannelHandlerContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/ServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ceaser/netty/myprotocalexample/MyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
