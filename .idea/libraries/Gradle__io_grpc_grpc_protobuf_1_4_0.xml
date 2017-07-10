@@ -2,6 +2,7 @@
   <library name="Gradle: io.grpc:grpc-protobuf:1.4.0">
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.4.0/8f99da3d840cb96cd655d610f771aeca4561d52d/grpc-protobuf-1.4.0.jar!/" />
+      <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-protobuf/1.4.0/8f99da3d840cb96cd655d610f771aeca4561d52d/grpc-protobuf-1.4.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

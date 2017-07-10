@@ -2,6 +2,7 @@
   <library name="Gradle: io.grpc:grpc-context:1.4.0">
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.grpc/grpc-context/1.4.0/8cbaa53c647ecee7077d4cdaa6855f6a18a03e9d/grpc-context-1.4.0.jar!/" />
+      <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.4.0/8cbaa53c647ecee7077d4cdaa6855f6a18a03e9d/grpc-context-1.4.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

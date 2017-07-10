@@ -2,6 +2,7 @@
   <library name="Gradle: io.netty:netty-transport:4.1.11.Final">
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.11.Final/6244fb27cbc24a8d006e9aaaead6b25dcf3aa2e1/netty-transport-4.1.11.Final.jar!/" />
+      <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.11.Final/6244fb27cbc24a8d006e9aaaead6b25dcf3aa2e1/netty-transport-4.1.11.Final.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

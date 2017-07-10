@@ -2,6 +2,7 @@
   <library name="Gradle: org.slf4j:slf4j-api:1.7.12">
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

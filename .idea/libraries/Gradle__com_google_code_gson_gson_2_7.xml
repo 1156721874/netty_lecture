@@ -2,6 +2,7 @@
   <library name="Gradle: com.google.code.gson:gson:2.7">
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar!/" />
+      <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

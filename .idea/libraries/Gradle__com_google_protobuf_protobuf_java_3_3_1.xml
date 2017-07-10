@@ -2,6 +2,7 @@
   <library name="Gradle: com.google.protobuf:protobuf-java:3.3.1">
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.3.1/e8964a2667e55d11a4505b329a4c34247663920b/protobuf-java-3.3.1.jar!/" />
+      <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.3.1/e8964a2667e55d11a4505b329a4c34247663920b/protobuf-java-3.3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
