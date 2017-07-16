@@ -1,0 +1,6 @@
+package.json 是nodejs里边的"build.gradle"  定义了若干依赖
+我们可以使用npm 命令下载依赖:
+npm install
+
+package.json：
+https://github.com/grpc/grpc/blob/v1.4.x/examples/node/package.json
