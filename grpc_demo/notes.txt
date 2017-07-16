@@ -4,3 +4,15 @@ npm install
 
 package.json：
 https://github.com/grpc/grpc/blob/v1.4.x/examples/node/package.json
+
+
+动态代码生成：
+https://github.com/grpc/grpc/tree/master/examples/node/dynamic_codegen
+静态代码生成：
+https://github.com/grpc/grpc/tree/master/examples/node/static_codegen
+下载grpc-tools：
+npm install -g grpc-tools
+windows下生成静态代码：
+
+grpc_tools_node_protoc --js_out=import_style=commonjs,binary:static_codegen/ --grpc_out=static_codegen/ --plugin=protoc-gen-grpc=C:/Users/Administrator/AppData/Roaming/npm/grpc_tools_node_protoc_plugin.cmd proto/Student.proto
+
