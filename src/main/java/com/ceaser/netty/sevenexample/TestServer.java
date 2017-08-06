@@ -18,7 +18,7 @@ public class TestServer {
         try{
             ServerBootstrap serverBootstrap = new ServerBootstrap();
             serverBootstrap.group(bossGroup,workerGroup).channel(NioServerSocketChannel.class).handler(new LoggingHandler(LogLevel.INFO)).
-                    childHandler(new TestServerInitializer());
+                    childHandler(null);
             ChannelFuture channelFuture = serverBootstrap.bind(8899).sync();
             channelFuture.channel().closeFuture().sync();
         }finally{

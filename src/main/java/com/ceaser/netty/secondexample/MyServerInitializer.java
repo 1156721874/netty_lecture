@@ -24,11 +24,3 @@ public class MyServerInitializer extends ChannelInitializer<SocketChannel> {
         pipline.addLast(new MyServerHandler());
     }
 }
-/**
- * 粘包
- *
- * 一次write对应多次read，为了解决这个问题netty提供了两个重要的handler:LengthFieldPrepender和LengthFieldBasedFrameDecoder
- *
- LengthFieldBasedFrameDecoder
- netty的拆包过程和自己写手工拆包并没有什么不同，都是将字节累加到一个容器里面，判断当前累加的字节数据是否达到了一个包的大小，达到一个包大小就拆开，进而传递到上层业务解码handler
- **/

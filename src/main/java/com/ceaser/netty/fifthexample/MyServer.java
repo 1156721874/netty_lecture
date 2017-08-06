@@ -11,7 +11,6 @@ import io.netty.handler.logging.LoggingHandler;
 
 /**
  * Created by Administrator on 2017/5/28.
- * webSocket长连接
  */
 public class MyServer {
     public static void main(String[] args) throws InterruptedException {

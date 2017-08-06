@@ -73,6 +73,9 @@ public class GrpcClient {
 
     }
 
+    /*
+    请求流式
+     */
     private static void StreamRequest(StudentServiceGrpc.StudentServiceStub studentServiceStub) {
         StreamObserver<StudentResponseList> studentResponseStreamObserver = new StreamObserver<StudentResponseList>() {
             @Override
