@@ -27,6 +27,9 @@ public class NioTest13 {
 
         MappedByteBuffer mappedByteBuffer = inoutFileChannel.map(FileChannel.MapMode.READ_ONLY,0,length);
 
+        Charset.availableCharsets().forEach((k,v) -> {
+            System.out.println(k+":"+v);
+        });
 
         Charset charset = Charset.forName("iso-8859-1");
         CharsetEncoder encoder = charset.newEncoder();
@@ -34,6 +37,8 @@ public class NioTest13 {
 
         CharBuffer charBuffer =  decoder.decode(mappedByteBuffer);
         ByteBuffer byteBuffer = encoder.encode(charBuffer);
+
+        //byteBuffer = Charset.forName("iso-8859-1").encode(charBuffer);
 
         outputFileChannel.write(byteBuffer);
         inRandomAccessFile.close();
