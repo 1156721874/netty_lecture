@@ -27,5 +27,4 @@ public class OldClient {
         socket.close();
         inputStream.close();
     }
-
 }
