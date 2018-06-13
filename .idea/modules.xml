@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitrepo-netty_lecture_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gitrepo-netty_lecture_main.iml" group="netty_lecture" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gitrepo-netty_lecture_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gitrepo-netty_lecture_test.iml" group="netty_lecture" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_lecture.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_lecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_lecture_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_lecture_main.iml" group="netty_lecture" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_lecture_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_lecture_test.iml" group="netty_lecture" />
