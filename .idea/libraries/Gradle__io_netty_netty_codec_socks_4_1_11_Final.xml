@@ -3,10 +3,12 @@
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.11.Final/3ac42bb571a7f13becd7adf34b99259142f52025/netty-codec-socks-4.1.11.Final.jar!/" />
       <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.11.Final/3ac42bb571a7f13becd7adf34b99259142f52025/netty-codec-socks-4.1.11.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.11.Final/3ac42bb571a7f13becd7adf34b99259142f52025/netty-codec-socks-4.1.11.Final.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.11.Final/64c3f0784137fd256cf63a9744c86dbe9e15a5a8/netty-codec-socks-4.1.11.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.11.Final/64c3f0784137fd256cf63a9744c86dbe9e15a5a8/netty-codec-socks-4.1.11.Final-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

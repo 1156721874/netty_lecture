@@ -3,10 +3,12 @@
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/com.google.instrumentation/instrumentation-api/0.4.2/3b548639e14ca8d8af5075acac82926266479ebf/instrumentation-api-0.4.2.jar!/" />
       <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/com.google.instrumentation/instrumentation-api/0.4.2/3b548639e14ca8d8af5075acac82926266479ebf/instrumentation-api-0.4.2.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.instrumentation/instrumentation-api/0.4.2/3b548639e14ca8d8af5075acac82926266479ebf/instrumentation-api-0.4.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/com.google.instrumentation/instrumentation-api/0.4.2/a6d7157771c8cea13b71ac3e565df9038009814d/instrumentation-api-0.4.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.instrumentation/instrumentation-api/0.4.2/a6d7157771c8cea13b71ac3e565df9038009814d/instrumentation-api-0.4.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

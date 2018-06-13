@@ -3,10 +3,12 @@
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.19/c3754a0bdd545b00ddc26884f9e7624f8b6a14de/error_prone_annotations-2.0.19.jar!/" />
       <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.19/c3754a0bdd545b00ddc26884f9e7624f8b6a14de/error_prone_annotations-2.0.19.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.19/c3754a0bdd545b00ddc26884f9e7624f8b6a14de/error_prone_annotations-2.0.19.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.19/86d6c004b152659db486989443f56b6fc23fb4da/error_prone_annotations-2.0.19-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.19/86d6c004b152659db486989443f56b6fc23fb4da/error_prone_annotations-2.0.19-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -64,7 +64,7 @@ public class NioClient {
                         int count = client.read(readBuffer);
                         if(count>0){
                             String receiveMeassage = new String(readBuffer.array(),0,count);
-                            System.out.println(receiveMeassage);
+                            System.out.println("receiveMeassage:"+receiveMeassage);
                         }
                     }
                 }

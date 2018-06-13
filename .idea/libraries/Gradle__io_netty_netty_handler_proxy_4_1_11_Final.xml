@@ -3,10 +3,12 @@
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.11.Final/311f68f471bb8a52a26ebd3e3196e46a9d968b6a/netty-handler-proxy-4.1.11.Final.jar!/" />
       <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.11.Final/311f68f471bb8a52a26ebd3e3196e46a9d968b6a/netty-handler-proxy-4.1.11.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.11.Final/311f68f471bb8a52a26ebd3e3196e46a9d968b6a/netty-handler-proxy-4.1.11.Final.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.11.Final/d5fdafaad3f9cd09e0c5e1b6206304f0a0a92086/netty-handler-proxy-4.1.11.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.11.Final/d5fdafaad3f9cd09e0c5e1b6206304f0a0a92086/netty-handler-proxy-4.1.11.Final-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

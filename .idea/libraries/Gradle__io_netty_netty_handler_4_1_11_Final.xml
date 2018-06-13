@@ -3,10 +3,12 @@
     <CLASSES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.11.Final/6f43aae489b2e4fd7446cd347b077bb058a225d8/netty-handler-4.1.11.Final.jar!/" />
       <root url="jar://D:/gradlerepo/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.11.Final/6f43aae489b2e4fd7446cd347b077bb058a225d8/netty-handler-4.1.11.Final.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.11.Final/6f43aae489b2e4fd7446cd347b077bb058a225d8/netty-handler-4.1.11.Final.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/gradlerepo/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.11.Final/1309af04a2ba02cf9cbcb9e192cd079b8939082a/netty-handler-4.1.11.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.11.Final/1309af04a2ba02cf9cbcb9e192cd079b8939082a/netty-handler-4.1.11.Final-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

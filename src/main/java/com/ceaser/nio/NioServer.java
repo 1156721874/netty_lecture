@@ -44,7 +44,7 @@ public class NioServer {
                                 String key = "【"+ UUID.randomUUID()+"】";
                                 clientMap.put(key,client);
                             }else  if(selectionKey.isReadable()){
-                                 client =   (SocketChannel)selectionKey.channel();
+                                client =   (SocketChannel)selectionKey.channel();
                                 ByteBuffer byteBuffer = ByteBuffer.allocate(1024);
                                 int count = client.read(byteBuffer);
                                 if(count>0){
