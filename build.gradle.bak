@@ -81,6 +81,6 @@ protobuf {
  // "$generatedFilesBaseDir/$sourceSet/grpcjava"
  outputSubDir = 'grpcjava'
  }
- }   
+ }
  }
  */
